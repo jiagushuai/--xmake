@@ -1,9 +1,6 @@
 *.a
 *.o
-*.exe
 *.obj
-*.dll
-*.lib
 *.out
 *.suo
 *~
@@ -19,3 +16,4 @@
 *.gch
 *.gch.d
 gmon.out
+.deps

@@ -30,3 +30,5 @@ xmake f -p 平台 -a 架构
 | Linux | 待补充  |
 | Android | xmake f -p android --sdk="/Users/jl/android-ndk-r16b" |需要ndk环境
 | iPhoneOS |xmake f -p iphoneos |需要xcode工具链
+
++ ndk[下载网址](https://developer.android.google.cn/ndk/downloads/)
