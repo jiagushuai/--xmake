@@ -32,3 +32,4 @@ xmake f -p 平台 -a 架构
 | iPhoneOS |xmake f -p iphoneos |需要xcode工具链
 
 + ndk[下载网址](https://developer.android.google.cn/ndk/downloads/)
++ [mac上安装mingw-w64](https://brewinstall.org/Install-mingw-w64-on-Mac-with-Brew/)
